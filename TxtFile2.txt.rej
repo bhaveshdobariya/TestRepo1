@@ -1,0 +1,7 @@
+diff a/TxtFile2.txt b/TxtFile2.txt	(rejected hunks)
+@@ -1 +0,2 @@
+-Hello from TxtFile2.
+\ No newline at end of file
++Hello from TxtFile2.
++Hello from task1 branch.
+\ No newline at end of file
